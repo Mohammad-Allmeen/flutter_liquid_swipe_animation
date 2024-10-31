@@ -33,6 +33,7 @@ dependencies:
   flutter:
     sdk: flutter
   liquid_swipe: ^3.1.0
+  ios_smooth_page_indicator: ^1.1.5
 
 dev_dependencies:
   flutter_lints: ^4.0.0
