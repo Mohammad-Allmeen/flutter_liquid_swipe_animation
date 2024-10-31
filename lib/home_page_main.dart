@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
       height: double.infinity,
       child: CachedNetworkImage(
         imageUrl:
-            'https://images.unsplash.com/photo-1649973400827-2ad24b87a933?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXR0cmFjdGl2ZSUyMGdpcmx8ZW58MHwxfDB8fHww',
+            'https://images.pexels.com/photos/5004002/pexels-photo-5004002.jpeg?auto=compress&cs=tinysrgb&w=1200',
         fit: BoxFit.cover,
         placeholder: (context, url) =>
             const Center(child: CircularProgressIndicator()),
@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
       height: double.infinity,
       child: CachedNetworkImage(
         imageUrl:
-            'https://images.unsplash.com/photo-1649051069812-b9aa9296358b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGF0dHJhY3RpdmUlMjBnaXJsfGVufDB8MXwwfHx8MA%3D%3D',
+            'https://images.pexels.com/photos/2406731/pexels-photo-2406731.jpeg?auto=compress&cs=tinysrgb&w=1200',
         fit: BoxFit.cover,
         placeholder: (context, url) =>
             const Center(child: CircularProgressIndicator()),
@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
       height: double.infinity,
       child: CachedNetworkImage(
         imageUrl:
-            'https://images.unsplash.com/photo-1649051008380-fdc8697d1bf5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGF0dHJhY3RpdmUlMjBnaXJsfGVufDB8MXwwfHx8MA%3D%3D',
+            'https://images.pexels.com/photos/23557054/pexels-photo-23557054/free-photo-of-dome-of-the-rock-in-old-city-of-jerusalem.jpeg?auto=compress&cs=tinysrgb&w=1200',
         fit: BoxFit.cover,
         placeholder: (context, url) =>
             const Center(child: CircularProgressIndicator()),
@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
       height: double.infinity,
       child: CachedNetworkImage(
         imageUrl:
-            'https://images.unsplash.com/photo-1695208316151-8d46279953a2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGF0dHJhY3RpdmUlMjBnaXJsfGVufDB8MXwwfHx8MA%3D%3D',
+            'https://images.pexels.com/photos/3624566/pexels-photo-3624566.jpeg?auto=compress&cs=tinysrgb&w=1200',
         fit: BoxFit.cover,
         placeholder: (context, url) =>
             const Center(child: CircularProgressIndicator()),
